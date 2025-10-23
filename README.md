@@ -6,5 +6,3 @@
 ## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdwilliams3&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Top Contributed 
-![](https://github-contributor-stats.vercel.app/api?username=bdwilliams3&limit=5&theme=dark)
