@@ -22,3 +22,6 @@
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdwilliams3&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bdwilliams3&theme=one_dark_pro&hide_border=true&show_icons=true)
+![](https://streak-stats.demolab.com/?user=bdwilliams3&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=bdwilliams3&theme=onedark&no-frame=true&row=2&column=3)
