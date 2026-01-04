@@ -21,7 +21,4 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdwilliams3&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=bdwilliams3&theme=one_dark_pro&hide_border=true&show_icons=true)
-![](https://streak-stats.demolab.com/?user=bdwilliams3&theme=onedark)
-![](https://github-profile-trophy.vercel.app/?username=bdwilliams3&theme=onedark&no-frame=true&row=2&column=3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdwilliams3&layout=compact&theme=onedark)
