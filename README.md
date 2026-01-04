@@ -21,4 +21,4 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bdwilliams3&layout=compact&theme=onedark)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bdwilliams3&layout=compact&theme=onedark)
